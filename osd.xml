@@ -5,7 +5,7 @@
 <Url type="application/atom+xml" template="https://toidicodedao.com/?s={searchTerms}&feed=atom"/>
 <Url type="rss+xml" template="https://toidicodedao.com/?s={searchTerms}&feed=rss2"/>
 <Url type="text/html" template="https://toidicodedao.com/?s={searchTerms}" method="GET"/>
-<Url type="application/opensearchdescription+xml" rel="self" template="https://toidicodedao.com/osd.xml"/>
+<Url type="application/opensearchdescription+xml" rel="self" template="https://github.com/truong2006/Free-projects/blob/main/osd.xml"/>
 <LongName>Từ coder đến developer - K-ous Nguyễn</LongName>
 <Image height="16" width="16" type="image/vnd.microsoft.icon">https://i.pinimg.com/originals/26/33/e5/2633e5d5ae5a39d6d4c73adb44bfb227.jpg</Image>
 <Image height="64" width="64" type="image/png">https://i.pinimg.com/originals/26/33/e5/2633e5d5ae5a39d6d4c73adb44bfb227.jpg</Image>
