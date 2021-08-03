@@ -1,5 +1,5 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-<ShortName>toidicodedao</ShortName>
+<ShortName>nguyenvantruong</ShortName>
 <Description>Search Từ coder đến developer - K-ous Nguyễn - Lập trình viên giỏi không phải chỉ biết code</Description>
 <Contact>help@wordpress.com</Contact>
 <Url type="application/atom+xml" template="https://toidicodedao.com/?s={searchTerms}&feed=atom"/>
